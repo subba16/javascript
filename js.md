@@ -1,5 +1,18 @@
 
 ![](https://user-images.githubusercontent.com/26511983/76691809-f1cbbc80-661c-11ea-8cfa-d7857f62a3f3.png)
+
+![](https://user-images.githubusercontent.com/26511983/76691845-571fad80-661d-11ea-88da-1b31f6b009ad.png)
+
+![](https://user-images.githubusercontent.com/26511983/76691851-728ab880-661d-11ea-8efc-4ed19f339448.png)
+
+![](https://user-images.githubusercontent.com/26511983/76691865-8c2c0000-661d-11ea-85d5-ef3afc03733f.png)
+
+## call back is pushed to the event queue once they are done
+
+![](https://user-images.githubusercontent.com/26511983/76691882-b1b90980-661d-11ea-8a26-4c22185a2ba7.png)
+
+
+
 ## hasOwnProperty 
 ```javascript
 const object1 = new Object();
