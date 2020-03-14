@@ -1,5 +1,4 @@
 
-![](https://user-images.githubusercontent.com/26511983/76691809-f1cbbc80-661c-11ea-8cfa-d7857f62a3f3.png)
 
 ![](https://user-images.githubusercontent.com/26511983/76691845-571fad80-661d-11ea-88da-1b31f6b009ad.png)
 
@@ -11,7 +10,13 @@
 
 ![](https://user-images.githubusercontent.com/26511983/76691882-b1b90980-661d-11ea-8a26-4c22185a2ba7.png)
 
+![](https://user-images.githubusercontent.com/26511983/76691919-f6dd3b80-661d-11ea-835a-de25a5762199.png)
 
+## Event loop - If stack is empty, it will push call back to teh stack
+
+![](https://user-images.githubusercontent.com/26511983/76691935-23915300-661e-11ea-96a8-d01dc1193220.png)
+
+![](https://user-images.githubusercontent.com/26511983/76691951-3f94f480-661e-11ea-96b0-a473391b5837.png)
 
 ## hasOwnProperty 
 ```javascript
