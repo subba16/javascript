@@ -1,4 +1,5 @@
 
+![](https://user-images.githubusercontent.com/26511983/76691809-f1cbbc80-661c-11ea-8cfa-d7857f62a3f3.png)
 ## hasOwnProperty 
 ```javascript
 const object1 = new Object();
