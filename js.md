@@ -12,11 +12,20 @@
 
 ![](https://user-images.githubusercontent.com/26511983/76691919-f6dd3b80-661d-11ea-835a-de25a5762199.png)
 
-## Event loop - If stack is empty, it will push call back to teh stack
+## Event loop - If stack is empty, it will push call back to the stack to run call back
 
 ![](https://user-images.githubusercontent.com/26511983/76691935-23915300-661e-11ea-96a8-d01dc1193220.png)
 
 ![](https://user-images.githubusercontent.com/26511983/76691951-3f94f480-661e-11ea-96b0-a473391b5837.png)
+
+## same with XHR call
+
+![](https://user-images.githubusercontent.com/26511983/76692021-be8a2d00-661e-11ea-915e-828f7f00fade.png)
+
+## Render has high priority than event queue. it waits for stack clear.
+### callbacks - sync and async
+
+![](https://user-images.githubusercontent.com/26511983/76692110-c6969c80-661f-11ea-8b5e-3ccaf9a66a03.png)
 
 ## hasOwnProperty 
 ```javascript
